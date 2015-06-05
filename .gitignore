@@ -73,3 +73,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.ntvs_analysis.dat
+obj/Debug/NodeTest.njsproj.FileListAbsolute.txt

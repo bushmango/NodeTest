@@ -40,6 +40,10 @@ app.get('/', routes.index);
 app.get('/about', routes.about);
 app.get('/contact', routes.contact);
 
+app.get('/hello',(req, res) => {
+    res.json("world! this is pretty nifty");
+});
+
 app.get('/api/v1/courseCatalog',(req, res) => {
     res.json("hello, course catalog!");
 });
