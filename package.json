@@ -1,0 +1,17 @@
+{
+  "name": "NodeTest",
+  "version": "0.0.0",
+  "description": "NodeTest",
+  "main": "app.js",
+  "author": {
+    "name": "sbushman",
+    "email": "sbushman@yaharasoftware.com"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "1.10.0",
+    "stylus": "0.51.1",
+    "mysql": "2.7.0",
+    "forever": "0.14.1"
+  }
+}
